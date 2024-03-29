@@ -3,4 +3,4 @@ Get ready for a delightful puzzle experience that's easy to pick up and impossib
 
 ![Alt text](background1.png)
 
-# playhttps://dasunikayapabandara.github.io/Puzzle-Game/
+play https://dasunikayapabandara.github.io/Puzzle-Game/
