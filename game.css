@@ -1,0 +1,55 @@
+body {
+    background: url(background.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#board {
+    width: 300px;
+    height: 300px;
+    border: 2px solid purple;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#board img {
+    width: 98px;
+    height: 98px;
+    border: 0.5px solid lightblue;
+}
+
+
+#pieces {
+    width: 600px;
+    height: 200px;
+    border: 1px solid purple;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#pieces img {
+    width: 98px;
+    height: 98px;
+    border: 0.5px solid lightblue;
+}h1 {
+    font-size: 70px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    color: #998beb;
+    text-transform: uppercase;
+    text-shadow: 
+        1px 1px 0px #4905e9,
+        1px 2px 0px #4905e9,
+        1px 3px 0px #4905e9,
+        1px 4px 0px #4905e9,
+        1px 5px 0px #4905e9,
+        1px 6px 0px #4905e9,
+        
+        1px 10px 5px rgba(16, 16, 16, 0.2),
+        1px 15px 10px rgba(16, 16, 16, 0.2),
+        1px 20px 30px rgba(16, 16, 16, 0.2),
+        1px 25px 50px rgba(16, 16, 16, 0.2),}
